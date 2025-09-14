@@ -1,0 +1,12 @@
+body{
+    background-color: #aeaec4;
+    /*This is a google font*/
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header{
+    font-family: "Bitcount Grid Double", system-ui;
+    font-optical-sizing: auto;
+}

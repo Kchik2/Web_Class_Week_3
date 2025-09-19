@@ -10,3 +10,8 @@ body{
     font-family: "Bitcount Grid Double", system-ui;
     font-optical-sizing: auto;
 }
+/*Font Style for conference_form!*/
+.conf_form{
+    font-family: "Alan Sans", sans-serif;
+    font-optical-sizing: auto;
+}
